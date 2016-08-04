@@ -1,0 +1,27 @@
+_repo: The-Upanishads_3283
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Paramananda, Swami
+    alias: Thakurta, Suresh Chandra Guha
+    birthdate: 1884
+    deathdate: 1940
+    gutenberg_agent_id: '1150'
+    url: http://www.gutenberg.org/2009/agents/1150
+description: ''
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion'
+- !lcsh 'Mysticism -- Hinduism'
+- !lcsh 'Sanskrit literature -- Translations into English'
+- !lcc 'BL'
+- GITenberg
+title: The Upanishads
+url: http://www.gutenberg.org/ebooks/3283
