@@ -1,5 +1,5 @@
 _repo: The-Upanishads_3283
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Paramananda, Swami
@@ -8,7 +8,12 @@ contributor:
     deathdate: 1940
     gutenberg_agent_id: '1150'
     url: http://www.gutenberg.org/2009/agents/1150
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3283#The-Upanishads
 gutenberg_issued: '2002-06-01'
 gutenberg_type: Text
 identifiers:
